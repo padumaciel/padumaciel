@@ -68,6 +68,3 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=padumaciel&show_icons=true&theme=dracula" alt="padumaciel's github stats" />
 </p>
-
-# padumaciel
-# padumaciel
