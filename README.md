@@ -8,8 +8,8 @@
 <div align="center">
  <ul align="left">
   <li> 🏝 I'm from Recife, Brazil </li>
-  <li> 👩🏽‍🎓 I'm graphic designer and front-end student at reprograma </li>
-  <li> 📚 Currently learning React and Java </li>
+  <li> 👩🏽‍🎓 I'm graphic designer and front-end developer </li>
+  <li> 📚 Currently learning ReactJS and NextJS </li>
   <li> 💬 I speak English and Portuguese </li>
  </ul>
 
