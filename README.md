@@ -8,7 +8,7 @@
 <div align="center">
  <ul align="left">
   <li> 🏝 I'm from Recife, Brazil </li>
-  <li> 👩🏽‍🎓 I'm graphic designer and front-end developer </li>
+  <li> 👩🏽‍🎓 I'm graphic designer (focused on UX/UI design) and front-end developer </li>
   <li> 📚 Currently learning ReactJS and NextJS </li>
   <li> 💬 I speak English and Portuguese </li>
  </ul>
@@ -19,12 +19,11 @@
  
 ## 📍 Where to find me
 
-[![Instagram Badge](https://img.shields.io/badge/-instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/padumaciel/)](https://www.instagram.com/padumaciel/)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/padumaciel.co/)](https://www.instagram.com/padumaciel.co/)
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/padumaciel/)](https://www.linkedin.com/in/padumaciel/)
 [![Github Badge](https://img.shields.io/badge/-github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/padumaciel)](https://github.com/padumaciel)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:padumaciel@gmail.com)](mailto:padumaciel@gmail.com)
 [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat-square&labelColor=blue&logo=behance&logoColor=white)](https://behance.net/padumaciel)
-[![Pinterest Badge](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=flat-square&labelColor=%23E60023&logo=Pinterest&logoColor=white)](https://pinterest.com/padumaciel)
 
 ----
 
